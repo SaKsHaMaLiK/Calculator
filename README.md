@@ -1,2 +1,2 @@
 # Calculator
-# Click Here(https://sakshamalik.github.io/Calculator/.)
+# Download the code and run it
