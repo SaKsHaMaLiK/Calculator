@@ -167,5 +167,4 @@ result.grid(row=5, sticky="w", padx=15, pady=5)
 modulus = Button(root, text="%", width=2, command=modulus,
                  borderwidth=3, relief=RIDGE)
 modulus.grid(row=5, sticky="e", padx=125, pady=5)
-
 root.mainloop()
